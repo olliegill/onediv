@@ -19,7 +19,7 @@ function App() {
     <div className='outer'>
       <h1>ONE DIV CHALLENGE</h1>
 
-      <h2>EASY</h2>
+      <h2>LEVEL 1</h2>
       <DivSection image={circle}>
         <div className='easy__circle' />
       </DivSection>
@@ -33,7 +33,7 @@ function App() {
         <div className='medium__diamond' />
       </DivSection>
       
-      <h2>MEDIUM</h2>
+      <h2>LEVEL 2</h2>
       <DivSection image={eightPoint}>
         <div className='medium__eightPoint' />
       </DivSection>
@@ -47,7 +47,7 @@ function App() {
         <div className='medium__octagon' />
       </DivSection>
 
-      <h2>HARD</h2>
+      <h2>LEVEL 3</h2>
       <DivSection image={starButton}>
         <button className='hard__starButton'>button</button>
       </DivSection>
