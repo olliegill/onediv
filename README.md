@@ -18,5 +18,7 @@ Some helpful resources:
 
 - [borders](https://www.lambdatest.com/blog/css-borders/)
 
+STAR: ★
+
 
 
