@@ -7,20 +7,25 @@
 
 .divSection__image {
     width: 50%;
-    outline: solid red 1px;
+    outline: solid grey 1px;
     display: flex;
     align-content: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
 }
 
 .divSection__img {
     width: 100%;
     object-fit: contain;
+    border-radius: 10px;
 }
 
 .divSection__div {
     width: 50%;
-    outline: solid blue 1px;
+    outline: solid grey 1px;
     display: flex;
     justify-content: center;
     place-items: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
 }
